@@ -1,0 +1,4 @@
+include ':common'
+include ':Clock'
+include ':app'
+rootProject.name = "Custom View Example"
