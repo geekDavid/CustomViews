@@ -46,7 +46,7 @@ public class ClockView extends View {
     //中点值
     private float centerPoint;
     //true表示秒动，false表示持续动
-    private boolean isSecondAnimator = true;
+    private boolean isSecondAnimator = false;
     //秒针角度
     private float secondDegrees;
     //分针角度
